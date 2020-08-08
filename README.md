@@ -1,5 +1,6 @@
-Web application with over half million recipes info around the world from different cusines.
-Written in Vue.js framework and Node.js
+* Web application with over half million recipes info around the world from different cusines.
+* Written in Vue.js framework and Node.js
+* Microsoft Azure DB
 
 Main app features:
 
