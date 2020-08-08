@@ -9,6 +9,6 @@ Main app features:
 * Filter results by popularity and cooking time.
 * Add specific recipes into recipes "cart" which monitors user cooking steps.
 
-api documentation - https://app.swaggerhub.com/apis-docs/BGU-University/3.2_API/1.0.0
+api documentation - https://app.swaggerhub.com/apis-docs/ohadNave/Recipes-resfull-api/1.0.0
 
 web url - https://recipes-app-v2.herokuapp.com/#/
